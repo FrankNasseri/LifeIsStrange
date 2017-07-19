@@ -22,4 +22,13 @@ nav#navvy.navbar.navbar-static-top{
     background:none;
 }
 
+/*TRAILER SECTION STYLING*/
+.mainSec {
+    background-image: url('Images/images/junkyard.jpg');
+    background-size:cover;
+}
+h1.container#trailer {
+    text-align:right;
+}
+
                                   
